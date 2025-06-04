@@ -1,0 +1,14 @@
+{
+  "name": "4400f71defeb6725",
+  "main": "4400f71defeb6725@491.js",
+  "version": "491.0.0",
+  "homepage": "https://observablehq.com/d/4400f71defeb6725",
+  "author": {
+    "name": "rup's ws",
+    "url": "https://observablehq.com/@rups-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
